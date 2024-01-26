@@ -1,0 +1,60 @@
+create host_plain Organization_User_Computer_
+modify network_objects Organization_User_Computer_ ipaddr 
+modify network_objects Organization_User_Computer_ color 'forest green'
+create host_plain Organization_User_Computer_10.10.10.1
+modify network_objects Organization_User_Computer_10.10.10.1 ipaddr 10.10.10.1
+modify network_objects Organization_User_Computer_10.10.10.1 color 'forest green'
+create host_plain Organization_User_Computer_10.20.20.2
+modify network_objects Organization_User_Computer_10.20.20.2 ipaddr 10.20.20.2
+modify network_objects Organization_User_Computer_10.20.20.2 color 'forest green'
+create host_plain Organization_User_Computer_10.30.30.3
+modify network_objects Organization_User_Computer_10.30.30.3 ipaddr 10.30.30.3
+modify network_objects Organization_User_Computer_10.30.30.3 color 'forest green'
+create host_plain Organization_User_Computer_10.40.40.4
+modify network_objects Organization_User_Computer_10.40.40.4 ipaddr 10.40.40.4
+modify network_objects Organization_User_Computer_10.40.40.4 color 'forest green'
+create host_plain Organization_User_Computer_10.10.10.2
+modify network_objects Organization_User_Computer_10.10.10.2 ipaddr 10.10.10.2
+modify network_objects Organization_User_Computer_10.10.10.2 color 'forest green'
+create host_plain Organization_User_Computer_10.20.20.3
+modify network_objects Organization_User_Computer_10.20.20.3 ipaddr 10.20.20.3
+modify network_objects Organization_User_Computer_10.20.20.3 color 'forest green'
+create host_plain Organization_User_Computer_10.30.30.4
+modify network_objects Organization_User_Computer_10.30.30.4 ipaddr 10.30.30.4
+modify network_objects Organization_User_Computer_10.30.30.4 color 'forest green'
+create host_plain Organization_User_Computer_10.40.40.5
+modify network_objects Organization_User_Computer_10.40.40.5 ipaddr 10.40.40.5
+modify network_objects Organization_User_Computer_10.40.40.5 color 'forest green'
+create host_plain Organization_User_Computer_10.10.10.3
+modify network_objects Organization_User_Computer_10.10.10.3 ipaddr 10.10.10.3
+modify network_objects Organization_User_Computer_10.10.10.3 color 'forest green'
+create host_plain Organization_User_Computer_10.20.20.4
+modify network_objects Organization_User_Computer_10.20.20.4 ipaddr 10.20.20.4
+modify network_objects Organization_User_Computer_10.20.20.4 color 'forest green'
+create host_plain Organization_User_Computer_10.30.30.5
+modify network_objects Organization_User_Computer_10.30.30.5 ipaddr 10.30.30.5
+modify network_objects Organization_User_Computer_10.30.30.5 color 'forest green'
+create host_plain Organization_User_Computer_10.40.40.6
+modify network_objects Organization_User_Computer_10.40.40.6 ipaddr 10.40.40.6
+modify network_objects Organization_User_Computer_10.40.40.6 color 'forest green'
+create host_plain Organization_User_Computer_10.10.10.4
+modify network_objects Organization_User_Computer_10.10.10.4 ipaddr 10.10.10.4
+modify network_objects Organization_User_Computer_10.10.10.4 color 'forest green'
+create host_plain Organization_User_Computer_10.20.20.5
+modify network_objects Organization_User_Computer_10.20.20.5 ipaddr 10.20.20.5
+modify network_objects Organization_User_Computer_10.20.20.5 color 'forest green'
+create host_plain Organization_User_Computer_10.30.30.6
+modify network_objects Organization_User_Computer_10.30.30.6 ipaddr 10.30.30.6
+modify network_objects Organization_User_Computer_10.30.30.6 color 'forest green'
+create host_plain Organization_User_Computer_10.40.40.7
+modify network_objects Organization_User_Computer_10.40.40.7 ipaddr 10.40.40.7
+modify network_objects Organization_User_Computer_10.40.40.7 color 'forest green'
+create host_plain Organization_User_Computer_10.10.10.5
+modify network_objects Organization_User_Computer_10.10.10.5 ipaddr 10.10.10.5
+modify network_objects Organization_User_Computer_10.10.10.5 color 'forest green'
+create host_plain Organization_User_Computer_10.20.20.6
+modify network_objects Organization_User_Computer_10.20.20.6 ipaddr 10.20.20.6
+modify network_objects Organization_User_Computer_10.20.20.6 color 'forest green'
+create host_plain Organization_User_Computer_10.30.30.7
+modify network_objects Organization_User_Computer_10.30.30.7 ipaddr 10.30.30.7
+modify network_objects Organization_User_Computer_10.30.30.7 color 'forest green'
